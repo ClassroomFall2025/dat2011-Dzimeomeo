@@ -47,4 +47,3 @@ def loc_so_chan():
 
 # Gọi hàm
 loc_so_chan()
-
